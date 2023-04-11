@@ -1,3 +1,7 @@
 node + aws 
-1.is node js is single threaded
+1.is node js is single threaded ?
 2.lets suppose we have 4 core cpu but node js is single threded so how it will utilize all the cores?
+3.In aws we have an public api and we have millions of users are there so how you can scale that api ?
+4.did you work on sequilize orm ?
+5.how you can automate migrations in prisma orm ?
+
